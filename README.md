@@ -66,3 +66,7 @@ Examples:
 # Screenshot
 
 ![Result](result.png)
+
+# Screenshot
+
+![Result](right.png)
