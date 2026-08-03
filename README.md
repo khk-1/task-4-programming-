@@ -63,10 +63,19 @@ Examples:
 
 ---
 
-# Screenshot
+# Screenshots
 
-![Result](result.png)
+## Forward
+![Forward](forward.png)
 
-# Screenshot
+## Backward
+![Backward](backward.png)
 
-![Result](right.png)
+## Left
+![Left](left.png)
+
+## Right
+![Right](right.png)
+
+## Stop
+![Stop](stop.png)
