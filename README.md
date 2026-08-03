@@ -65,4 +65,4 @@ Examples:
 
 # Screenshot
 
-![Result](images/result.png)
+![Result](result.png)
